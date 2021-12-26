@@ -16,15 +16,15 @@ This markdown lays out my observations on the current codebase, my plans to fix 
 
 ### index.html
 
-- [ ] Ensure all newly created classes and IDs are assigned to their appropriate elements.
-- [ ] Assess use of `<div>` element. Replace with more appropriate tag if neccessary
-- [ ] Ensure new CSS file is properly linked
-- [ ] Check that all images have alt text where appropriate
+- [x] Ensure all newly created classes and IDs are assigned to their appropriate elements.
+- [x] Assess use of `<div>` element. Replace with more appropriate tag if neccessary
+- [x] Ensure new CSS file is properly linked
+- [x] Check that all images have alt text where appropriate
 
 ### style.css
 
-- [ ] Reorganize code into a more logical and readable layout.
-- [ ] Analyze CSS to find repeat stylings and create new general purpose class to cover them.
-- [ ] Determine a better approach to handling specific font stylings scattered throughout CSS.
-- [ ] Analyze stylings for specific sections, consolidate any duplicates into a general purpose class, and create descriptive IDs for the more specific styling needs.
-- [ ] Ensure newly created styling sheet properly recreates the same webpage look and layout of the original styling sheet.
+- [x] Reorganize code into a more logical and readable layout.
+- [x] Analyze CSS to find repeat stylings and create new general purpose class to cover them.
+- [x] Determine a better approach to handling specific font stylings scattered throughout CSS.
+- [x] Analyze stylings for specific sections, consolidate any duplicates into a general purpose class, and create descriptive IDs for the more specific styling needs.
+- [x] Ensure newly created styling sheet properly recreates the same webpage look and layout of the original styling sheet.
