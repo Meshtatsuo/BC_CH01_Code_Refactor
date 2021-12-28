@@ -23,7 +23,7 @@ p {
 }
 
 /* GENERAL CLASSES */
-
+/* modify color in Horiseon logo */
 .seo {
   color: #d9dcd6;
 }
@@ -43,6 +43,7 @@ p {
   float: right;
   margin-left: 25px;
 }
+
 /* Font override */
 .trebuchet_font {
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",

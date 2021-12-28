@@ -17,3 +17,7 @@ The goals of this refactor **did not** include:
 
 - Conerting the static landing page into a responsive layout.
 - Changing or updating the design in any way.
+
+## Preview
+
+![Preview gif of final site layout](https://github.com/Meshtatsuo/BC_CH01_Code_Refactor/blob/main/site-preview.gif?raw=true)
