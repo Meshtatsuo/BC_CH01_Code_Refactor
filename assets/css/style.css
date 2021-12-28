@@ -70,7 +70,7 @@ header ul li {
   display: inline-block;
   margin-left: 25px;
 }
-
+/* Navigation Stylings */
 nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -85,17 +85,6 @@ nav ul {
 nav ul li {
   display: inline-block;
   margin-left: 25px;
-}
-
-/* FOOTER STYLINGS */
-footer {
-  padding: 30px;
-  clear: both;
-  text-align: center;
-}
-
-footer h2 {
-  font-size: 20px;
 }
 
 /* HERO STYLINGS */
@@ -152,4 +141,15 @@ aside img {
   display: block;
   margin: 10px auto;
   max-width: 150px;
+}
+
+/* FOOTER STYLINGS */
+footer {
+  padding: 30px;
+  clear: both;
+  text-align: center;
+}
+
+footer h2 {
+  font-size: 20px;
 }
